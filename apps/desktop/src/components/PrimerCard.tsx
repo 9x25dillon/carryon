@@ -1,0 +1,1 @@
+export default function PrimerCard() { return <div>Primer Card</div> }

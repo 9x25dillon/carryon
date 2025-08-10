@@ -1,0 +1,1 @@
+export default function ConsentToggles() { return <div>Consent Toggles</div> }

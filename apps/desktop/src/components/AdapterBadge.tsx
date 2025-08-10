@@ -1,0 +1,1 @@
+export default function AdapterBadge() { return <div>Adapter Badge</div> }

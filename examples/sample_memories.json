@@ -1,0 +1,32 @@
+[
+  {
+    "event_id": "evt_0001",
+    "ts": "2025-08-10T19:21:00Z",
+    "type": "USER_PREF_SET",
+    "subject": "Randy",
+    "data": "{\"calls_me\": \"Diane\"}",
+    "sensitivity": "low",
+    "consent": "retain",
+    "hash": "deadbeef01"
+  },
+  {
+    "event_id": "evt_0002",
+    "ts": "2025-08-11T09:05:00Z",
+    "type": "FACT",
+    "subject": "Randy",
+    "data": "{\"timezone\": \"America/Los_Angeles\"}",
+    "sensitivity": "low",
+    "consent": "retain",
+    "hash": "deadbeef02"
+  },
+  {
+    "event_id": "evt_0003",
+    "ts": "2025-08-12T12:00:00Z",
+    "type": "PREFERENCE",
+    "subject": "Coffee",
+    "data": "{\"order\": \"oat milk latte\"}",
+    "sensitivity": "medium",
+    "consent": "use-for-personalization",
+    "hash": "deadbeef03"
+  }
+]
