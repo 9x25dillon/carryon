@@ -1,0 +1,1 @@
+export default function FileDrop() { return <div>File Drop</div> }

@@ -1,0 +1,1 @@
+export default function ToneSlider() { return <div>Tone Slider</div> }
